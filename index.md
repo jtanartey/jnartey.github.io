@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Matplotlib Experiment 
 
 [Matplotlib](/matplotlib.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
