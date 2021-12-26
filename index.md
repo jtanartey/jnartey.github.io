@@ -2,7 +2,7 @@
 
 ---
 
-### Matplotlib Experiment 
+### Data Visualisation 
 
 [Data Visualisation](/Visual_Assignment.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
