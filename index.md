@@ -6,10 +6,13 @@
 
 [Data Visualisation](/Visual_Assignment.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+# Creating a visualisation of an earthquake data given.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Linear Model
+[Linear Model](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+# Created a linear model after studying it.
 
 ---
 [Project 3 Title](http://example.com/)
