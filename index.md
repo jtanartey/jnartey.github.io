@@ -10,7 +10,7 @@
 
 ---
 ### Linear Model
-[Linear Model](/pdf/sample_presentation.pdf)
+[Linear Model](/Linear Model.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 # Created a linear model after studying it.
 
